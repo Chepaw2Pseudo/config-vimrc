@@ -42,9 +42,8 @@ set expandtab
 set smarttab
 set autoindent
 
-" Display whitespace characters
 set list
-set listchars=eol:¬,trail:\ ,nbsp:¤
+set listchars=tab:»·,trail:·,eol:¬,nbsp:¤
 
 " Status line
 set laststatus=2
