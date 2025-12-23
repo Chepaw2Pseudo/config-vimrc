@@ -6,6 +6,7 @@
 set mouse=a
 
 " Display line number relative
+set number
 set relativenumber
 
 " Enable syntax highlighting
